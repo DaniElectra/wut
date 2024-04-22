@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['account_7116',['Account',['../namespacenn_1_1sl.html#structnn_1_1sl_1_1Account',1,'nn::sl']]],
+  ['accountinfo_7117',['AccountInfo',['../namespacenn_1_1sl.html#structnn_1_1sl_1_1AccountInfo',1,'nn::sl']]],
+  ['accountinfoaccessorfromptr_7118',['AccountInfoAccessorFromPtr',['../classnn_1_1sl_1_1details_1_1AccountInfoAccessorFromPtr.html',1,'nn::sl::details']]],
+  ['accountuuid_7119',['AccountUUID',['../namespacenn_1_1sl.html#structnn_1_1sl_1_1AccountUUID',1,'nn::sl']]],
+  ['acpmetaxml_7120',['ACPMetaXml',['../group__nn__acp__title.html#structACPMetaXml',1,'']]],
+  ['addrinfo_7121',['addrinfo',['../netdb_8h.html#structaddrinfo',1,'']]],
+  ['admininfo_7122',['AdminInfo',['../namespacenn_1_1nfp.html#structnn_1_1nfp_1_1AdminInfo',1,'nn::nfp']]],
+  ['amiibosettingsargs_7123',['AmiiboSettingsArgs',['../namespacenn_1_1nfp.html#structnn_1_1nfp_1_1AmiiboSettingsArgs',1,'nn::nfp']]],
+  ['amiibosettingsargsin_7124',['AmiiboSettingsArgsIn',['../namespacenn_1_1nfp.html#structnn_1_1nfp_1_1AmiiboSettingsArgsIn',1,'nn::nfp']]],
+  ['amiibosettingsresult_7125',['AmiiboSettingsResult',['../namespacenn_1_1nfp.html#structnn_1_1nfp_1_1AmiiboSettingsResult',1,'nn::nfp']]],
+  ['appeararg_7126',['AppearArg',['../namespacenn_1_1erreula.html#structnn_1_1erreula_1_1AppearArg',1,'AppearArg'],['../namespacenn_1_1swkbd.html#structnn_1_1swkbd_1_1AppearArg',1,'AppearArg']]],
+  ['applicationareacreateinfo_7127',['ApplicationAreaCreateInfo',['../namespacenn_1_1nfp.html#structnn_1_1nfp_1_1ApplicationAreaCreateInfo',1,'nn::nfp']]],
+  ['axinitparams_7128',['AXInitParams',['../group__sndcore2__core.html#structAXInitParams',1,'']]],
+  ['axprofile_7129',['AXProfile',['../group__sndcore2__core.html#structAXProfile',1,'']]],
+  ['axtransitionaudiobuffer_7130',['AXTransitionAudioBuffer',['../group__sndcore2__core.html#structAXTransitionAudioBuffer',1,'']]],
+  ['axvoice_7131',['AXVoice',['../group__sndcore2__voice.html#structAXVoice',1,'']]],
+  ['axvoiceadpcm_7132',['AXVoiceAdpcm',['../group__sndcore2__voice.html#structAXVoiceAdpcm',1,'']]],
+  ['axvoiceadpcmloopdata_7133',['AXVoiceAdpcmLoopData',['../group__sndcore2__voice.html#structAXVoiceAdpcmLoopData',1,'']]],
+  ['axvoicedevicebusmixdata_7134',['AXVoiceDeviceBusMixData',['../group__sndcore2__voice.html#structAXVoiceDeviceBusMixData',1,'']]],
+  ['axvoicedevicemixdata_7135',['AXVoiceDeviceMixData',['../group__sndcore2__voice.html#structAXVoiceDeviceMixData',1,'']]],
+  ['axvoicelink_7136',['AXVoiceLink',['../group__sndcore2__voice.html#structAXVoiceLink',1,'']]],
+  ['axvoiceoffsets_7137',['AXVoiceOffsets',['../group__sndcore2__voice.html#structAXVoiceOffsets',1,'']]],
+  ['axvoicesrc_7138',['AXVoiceSrc',['../group__sndcore2__voice.html#structAXVoiceSrc',1,'']]],
+  ['axvoicevedata_7139',['AXVoiceVeData',['../group__sndcore2__voice.html#structAXVoiceVeData',1,'']]]
+];

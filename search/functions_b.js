@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['kbdinit_9102',['KBDInit',['../nsyskbd_8h.html#a61b71b96396b54a12924ef1ea252d712',1,'nsyskbd.h']]],
+  ['kbdsetcountry_9103',['KBDSetCountry',['../nsyskbd_8h.html#adc00c18d039d0f26a3e87e653d898f0b',1,'nsyskbd.h']]],
+  ['kbdsetup_9104',['KBDSetup',['../nsyskbd_8h.html#a0b9f573cd5fe78959a6dbc7ce1f2a96c',1,'nsyskbd.h']]],
+  ['kbdteardown_9105',['KBDTeardown',['../nsyskbd_8h.html#a23757c8545e0812a7d9abe8670798faf',1,'nsyskbd.h']]],
+  ['killernotificationaccessorfromptr_9106',['KillerNotificationAccessorFromPtr',['../classnn_1_1sl_1_1details_1_1KillerNotificationAccessorFromPtr.html#a8611f975deee3e98496839688a735f70',1,'nn::sl::details::KillerNotificationAccessorFromPtr']]],
+  ['killernotificationselector_9107',['KillerNotificationSelector',['../classnn_1_1sl_1_1KillerNotificationSelector.html#ab9bf6fa0c427db89e50afb538119d771',1,'nn::sl::KillerNotificationSelector']]],
+  ['killernotificationtransferrecordmanager_9108',['KillerNotificationTransferRecordManager',['../classnn_1_1sl_1_1KillerNotificationTransferRecordManager.html#aa8c0753bf741db7e488297737fc1042a',1,'nn::sl::KillerNotificationTransferRecordManager']]],
+  ['killernotificationtransferrecordmanagerfromptr_9109',['KillerNotificationTransferRecordManagerFromPtr',['../classnn_1_1sl_1_1details_1_1KillerNotificationTransferRecordManagerFromPtr.html#afb706c714ee046073300f3be00185f4d',1,'nn::sl::details::KillerNotificationTransferRecordManagerFromPtr']]],
+  ['killernotificationtransferrecordmanagerinternal_9110',['KillerNotificationTransferRecordManagerInternal',['../classnn_1_1sl_1_1KillerNotificationTransferRecordManagerInternal.html#a68ed59107386511101751ffc94611dc8',1,'nn::sl::KillerNotificationTransferRecordManagerInternal']]],
+  ['killernotificationtransferrecordstream_9111',['KillerNotificationTransferRecordStream',['../classnn_1_1sl_1_1KillerNotificationTransferRecordStream.html#a4c207f3e7e53946302d970aba652bd94',1,'nn::sl::KillerNotificationTransferRecordStream']]],
+  ['kpadgetgamemaxcontrollers_9112',['KPADGetGameMaxControllers',['../group__padscore__kpad.html#ga522c50dc5373e1f13458e324e9a9d3fe',1,'kpad.h']]],
+  ['kpadgetmaxcontrollers_9113',['KPADGetMaxControllers',['../group__padscore__kpad.html#ga79f09e9c5f9075ca16c5e2a90a32c4b3',1,'kpad.h']]],
+  ['kpadinit_9114',['KPADInit',['../group__padscore__kpad.html#ga59dd0b75518d16750f94e43a89378669',1,'kpad.h']]],
+  ['kpadread_9115',['KPADRead',['../group__padscore__kpad.html#ga94592ff4811fb9b3b7ec2f4f75cda9b4',1,'kpad.h']]],
+  ['kpadreadex_9116',['KPADReadEx',['../group__padscore__kpad.html#gab3f9a89e0e49bf1698757b1c81a30930',1,'kpad.h']]],
+  ['kpadsetconnectcallback_9117',['KPADSetConnectCallback',['../group__padscore__kpad.html#ga489c323f062380c20de7829a4cf1dc59',1,'kpad.h']]],
+  ['kpadsetmaxcontrollers_9118',['KPADSetMaxControllers',['../group__padscore__kpad.html#gaff2ace9b627576c852eeb9bd281a7a20',1,'kpad.h']]],
+  ['kpadshutdown_9119',['KPADShutdown',['../group__padscore__kpad.html#ga1f6bf4f73c6f2bea5ae5e4de433f26a4',1,'kpad.h']]]
+];

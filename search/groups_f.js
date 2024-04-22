@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['sampler_14748',['Sampler',['../group__gx2__sampler.html',1,'']]],
+  ['save_14749',['Save',['../group__nn__acp__save.html',1,'']]],
+  ['scheduler_14750',['Scheduler',['../group__coreinit__scheduler.html',1,'']]],
+  ['screen_14751',['Screen',['../group__coreinit__screen.html',1,'']]],
+  ['semaphore_14752',['Semaphore',['../group__coreinit__semaphore.html',1,'']]],
+  ['shaders_14753',['Shaders',['../group__gx2__shader.html',1,'']]],
+  ['smd_14754',['SMD',['../group__coreinit__smd.html',1,'']]],
+  ['sndcore2_14755',['sndcore2',['../group__sndcore2.html',1,'']]],
+  ['socket_14756',['Socket',['../group__nsysnet__socket.html',1,'']]],
+  ['software_20keyboard_14757',['Software Keyboard',['../group__nn__swkbd__swkbd.html',1,'']]],
+  ['spinlock_14758',['Spinlock',['../group__coreinit__spinlock.html',1,'']]],
+  ['state_14759',['State',['../group__gx2__state.html',1,'']]],
+  ['surface_14760',['Surface',['../group__gx2__surface.html',1,'(Global Namespace)'],['../group__gx2r__surface.html',1,'(Global Namespace)']]],
+  ['swap_14761',['Swap',['../group__gx2__swap.html',1,'']]],
+  ['swkbd_14762',['swkbd',['../group__swkbd.html',1,'']]],
+  ['synchronization_14763',['Synchronization',['../group__dmae__sync.html',1,'']]],
+  ['sysapp_14764',['sysapp',['../group__sysapp.html',1,'']]],
+  ['sysapp_20arguments_14765',['SYSAPP Arguments',['../group__sysapp__args.html',1,'']]],
+  ['sysapp_20launch_14766',['SYSAPP Launch',['../group__sysapp__launch.html',1,'']]],
+  ['sysapp_20switch_14767',['SYSAPP Switch',['../group__sysapp__switch.html',1,'']]],
+  ['sysapp_20title_14768',['SYSAPP Title',['../group__sysapp__title.html',1,'']]],
+  ['system_20info_14769',['System Info',['../group__coreinit__systeminfo.html',1,'']]]
+];
